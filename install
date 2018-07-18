@@ -1,0 +1,4 @@
+tensorflow-1.4.0-cp35-cp35m-win_amd64.whl
+对于whl文件，安装有pip install whl文件名
+
+对于.tar.gz，解压之后，由cd 解压路径，使用python setup.py install语句
