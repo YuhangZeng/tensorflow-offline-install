@@ -1,4 +1,8 @@
 tensorflow-1.4.0-cp35-cp35m-win_amd64.whl
 对于whl文件，安装有pip install whl文件名
+对于找不到的whl在https://pypi.org/  中搜索下载相关库
 
 对于.tar.gz，解压之后，由cd 解压路径，使用python setup.py install语句
+对于protobuf，解压后，cd到子文件夹python中，使用python setup.py install语句
+
+通过pip list或者conda list，查看是否安装相关库
